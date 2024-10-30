@@ -1,7 +1,6 @@
 Published in [Cytopathology Journal](https://onlinelibrary.wiley.com/toc/13652303/2023/34/S1) - Oct 2023
 
 ## About the Project
-This project started on `08/07/2023` and was completed within 3 weeks.
 
 Primary Objectives:
 <ul>
